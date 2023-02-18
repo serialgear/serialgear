@@ -4,8 +4,6 @@
 <p align='left' >Hello, I am a Front End Developer. My focus is on creating engaging and intuitive user interfaces for websites and web applications.
 As a Front End Developer, I have a deep understanding of HTML, CSS, and JavaScript, as well as experience with React front-end framework. My skills enable me to design and develop responsive websites that work seamlessly across multiple devices and platforms.
 </p>
-<br>
----
 
 ### 🧰 Languages and Tools
 
