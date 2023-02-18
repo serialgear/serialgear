@@ -6,6 +6,7 @@ As a Front End Developer, I have a deep understanding of HTML, CSS, and JavaScri
 </p>
 <br>
 ---
+
 ### 🧰 Languages and Tools
 
 <img align="left" alt="JavaScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
