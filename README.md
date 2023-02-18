@@ -3,6 +3,7 @@
 <img align='right' width='200' src='https://cdn.dribbble.com/users/235897/screenshots/1712148/media/49c8018062cc43eab67b801c6cb459e8.gif' alt='coder'>
 <p align='left' >Hello, I am a Front End Developer. My focus is on creating engaging and intuitive user interfaces for websites and web applications.
 As a Front End Developer, I have a deep understanding of HTML, CSS, and JavaScript, as well as experience with React front-end framework. My skills enable me to design and develop responsive websites that work seamlessly across multiple devices and platforms.
+  I am committed to continuously learning and keeping up-to-date with the latest front-end development trends and technologies. As a Front End Developer, I take pride in delivering the best possible user experience for every web application that I work on.
 </p>
 
 ### 🧰 Languages and Tools
