@@ -5,9 +5,7 @@
 As a Front End Developer, I have a deep understanding of HTML, CSS, and JavaScript, as well as experience with React front-end framework. My skills enable me to design and develop responsive websites that work seamlessly across multiple devices and platforms.
 </p>
 <br>
-
 ---
-
 ### 🧰 Languages and Tools
 
 <img align="left" alt="JavaScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
