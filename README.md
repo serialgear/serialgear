@@ -33,15 +33,4 @@ As a Front End Developer, I have a deep understanding of HTML, CSS, and JavaScri
 ### 📊 Stats
 
 
-<!-- ![Oleksiy's GitHub stats](https://github-readme-stats.vercel.app/api?username=b3dyk&show_icons=true&title_color=61afef&icon_color=c678dd&bg_color=23272e&text_color=e5c06e&border_color=3b4048)
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b3dyk&layout=compact) -->
-
-<a href="https://github.com/anuraghazra/github-readme-stats" >
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=b3dyk&show_icons=true&title_color=61afef&icon_color=c678dd&bg_color=23272e&text_color=e5c06e&border_color=3b4048" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b3dyk&layout=compact" />
-</a>
-
    
