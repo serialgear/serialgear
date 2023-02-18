@@ -6,7 +6,6 @@ As a Front End Developer, I have a deep understanding of HTML, CSS, and JavaScri
   I am committed to continuously learning and keeping up-to-date with the latest front-end development trends and technologies. As a Front End Developer, I take pride in delivering the best possible user experience for every web application that I work on.
 </p>
 <br>
-
 ---
 
 ### 🧰 Languages and Tools
