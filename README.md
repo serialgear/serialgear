@@ -1,6 +1,6 @@
 ## :wave: Oleksiy Tretyakov
 
-<img align='right' width='200' src='https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/34e69eb61a7bd8dea1c957a8b82605a7.gif' alt='coder'>
+<img align='right' width='200' src='https://cdn.dribbble.com/users/235897/screenshots/1712148/media/49c8018062cc43eab67b801c6cb459e8.gif' alt='coder'>
 <p align='left' >Hello, I am a Front End Developer. My focus is on creating engaging and intuitive user interfaces for websites and web applications.
 As a Front End Developer, I have a deep understanding of HTML, CSS, and JavaScript, as well as experience with React front-end framework. My skills enable me to design and develop responsive websites that work seamlessly across multiple devices and platforms.
 </p>
