@@ -1,4 +1,4 @@
-Oleksiy Tretyakov
+## :wave: Oleksiy Tretyakov
 
 <img align='right' width='200' src='https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/34e69eb61a7bd8dea1c957a8b82605a7.gif' alt='coder'>
 <p align='left' >Hello, I am a Front End Developer. My focus is on creating engaging and intuitive user interfaces for websites and web applications.
